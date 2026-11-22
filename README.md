@@ -1,11 +1,10 @@
-# Merhaba, ben Ethem Gökdemir 👋  
-### Bilgisayar Mühendisliği Öğrencisi & Aviyonik Gömülü Yazılım Geliştiricisi
+# Merhaba, ben Ethem Gökdemir 
 
 **Kocaeli Üniversitesi Bilgisayar Mühendisliği 3. sınıf** öğrencisiyim. **[@KouSpace](https://github.com/KouSpace)** Roket ve Uzay Takımı'nın **Aviyonik** biriminde gömülü yazılım geliştiricisi olarak görev alıyorum. Mikrodenetleyici tabanlı sistemler, sensör entegrasyonu, endüstriyel/aviyonik haberleşme protokolleri ve nesne yönelimli yazılım geliştirme üzerine çalışıyorum.
 
 ---
 
-### 🚀 Hakkımda & Odak Alanlarım
+### 🚀 Hakkımda
 
 - 🎓 **Eğitim:** Kocaeli Üniversitesi — Bilgisayar Mühendisliği (3. Sınıf)
 - 🛰️ **Takım & Rol:** **KouSpace** — Aviyonik Birimi (Gömülü Sistemler & Uçuş Yazılımı)
@@ -13,7 +12,7 @@
   - **STM32 (Arm Cortex-M / STM32H7 & Nucleo):** HAL/LL kütüphaneleri ile donanım seviyesi programlama ve özel tasarım PCB doğrulama
   - **Mikrodenetleyici & Kartlar:** STM32, ESP32, RP2040 (Raspberry Pi Pico), Arduino
   - **Haberleşme Protokolleri:** UART, I2C, SPI, RS-485, Modbus RTU, PWM
-  - **Sensör & Veri İşleme:** 9-DOF IMU (BNO055), LiDAR, ADC veri toplama, telemetri, veri kaydetme (datalogger) ve filtreleme algoritmaları
+  - **Sensör & Veri İşleme:** IMU, LiDAR, veri toplama, telemetri, veri kaydetme ve filtreleme algoritmaları
 - 💻 **Yazılım Geliştirme:** C, C++, C# (.NET / WPF) ve Java ile sistem ve masaüstü uygulamaları geliştirme
 - 📫 **İletişim:** [gokdemirethem54@gmail.com](mailto:gokdemirethem54@gmail.com)
 
